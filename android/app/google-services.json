@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5093194694",
+    "project_id": "shop-dfece",
+    "storage_bucket": "shop-dfece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5093194694:android:62425e298d9ecdf82510c7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5093194694-ajvg7otc4pt546d3d2mmc36k7k3ne3d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_shop_app",
+            "certificate_hash": "aea3642c355468eaec558c445ceacf4e081919a6"
+          }
+        },
+        {
+          "client_id": "5093194694-ln8knq11ukj5rhau8kgha9idfsg9ofpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARhzniubLT_SP8fqL7Yy3Cv1gy0e9-GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5093194694-ln8knq11ukj5rhau8kgha9idfsg9ofpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
